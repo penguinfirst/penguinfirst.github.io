@@ -24,7 +24,7 @@ Papers
 
 - [Interactive Cross-Language Pointer Analysis for Resolving Native Code in Java Programs](/publications/icse2025.pdf)
   **Chenxi Zhang**, Yufei Liang, Tian Tan\*, Chang Xu, Shuangxiang Kan, Yulei Sui, Yue Li\*\
-  In *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)*,, Sun 27 April-Sat 3 May, 2025, Ottawa, Ontario, Canada\
+  In *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)*, Sun 27 April-Sat 3 May, 2025, Ottawa, Ontario, Canada\
   🏆 **<font color="red">ACM Distinguished Paper Award</font>**
   📄[**ICSE 2025**](https://conf.researchr.org/home/icse-2025)
   🌟[**CCF-A**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
